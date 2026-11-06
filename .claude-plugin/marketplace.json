@@ -1,0 +1,11 @@
+{
+  "name": "chazeaua-conseil",
+  "owner": { "name": "chazeaua-conseil" },
+  "plugins": [
+    {
+      "name": "mon-accueil",
+      "source": "./plugins/mon-accueil",
+      "description": "Panneau d'accueil à côté de la conversation : tâches, projets en cours et notes, que Claude peut aussi lire et modifier."
+    }
+  ]
+}

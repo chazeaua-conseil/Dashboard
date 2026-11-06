@@ -1,0 +1,1 @@
+{ "name": "mon-accueil", "version": "0.1.0", "description": "Panneau d'accueil à côté de la conversation : tâches, projets en cours et notes, que Claude peut aussi lire et modifier.", "types": "./types/index.d.ts" }
